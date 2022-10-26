@@ -6,5 +6,9 @@ Procurando atualmente uma recolocação na área de programação, como Desenvol
 
 Formado em Redes de Computadores, pela Faculdade Instituto brasileiro de Ciências medicas Juscelino Kubitschek-IBCMED
 
-Programador FullStack na DevClub com Mentor Rodolfo Mori
+![Rômulo stats](https://github-readme-stats.vercel.app/api?username=romulobatista300&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
